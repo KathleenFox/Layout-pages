@@ -1,0 +1,32 @@
+#wrapper{
+    width: 500px;
+    margin:10px auto 10px auto;
+    height: 1000px;
+    background:red;
+}
+header{
+    height: 50px;
+    width: 100%;
+    background:#eeeeee;
+    text-align: center;
+}
+
+nav, aside{
+    background: orange;
+    width:100px;
+    float: left;
+}
+
+article{
+    width: 300px; 
+    background:white;
+    float: left;
+    text-align:center;
+}
+
+#page-footer{
+clear:left;
+    background:blue;
+    text-align:center;
+  
+}
